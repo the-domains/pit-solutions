@@ -1,7 +1,7 @@
 name: 'PIT Solutions '
 favicon: null
 layout_spectrum: 0.20264854817651212
-typography_spectrum: 0.025828684912994504
+typography_spectrum: 1
 title: A brain for your hardware
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#b92227'
+    - '#231f20'
+    - '#000000'
+    - '#4d4d4d'
+    - '#ff0000'
   brandStrength: 0.8264642751310021
-  lightness: 0.9435203468892723
-  saturation: 0.024533797288313508
-  rhythmicContrast: 0.3330200354102999
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
